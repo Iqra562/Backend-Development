@@ -1,0 +1,13 @@
+create express project:
+
+-init -y it will accepts all defaults
+
+
+-npm init 
+it gives the utility that what should be the package name
+
+there are 2 syntx to write code 
+1 is require and other is import
+
+for require you have to set type common js and for import syntx set type module 
+
