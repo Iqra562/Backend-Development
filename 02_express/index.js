@@ -48,7 +48,7 @@ app.delete('/deleteData/:id',(req,res)=>{
 
     }
     data.splice(index,1)
-    return  res.status(204).send('data deleted');
+      res.status(204).send('data deleted');
 
 
 })
